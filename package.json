@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Practice writing functions that return other functions",
   "engines": {
-    "node": "6.x",
+    "node": "8.12.0",
     "npm": "3.x"
   },
   "main": "index.js",
